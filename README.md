@@ -85,9 +85,9 @@ docker ps
 ```
 
 # Cсылки
-[Неплохая вводная статья на хабре](https://habr.com/ru/post/253877/)
-[Статья о хранении данных в докере](https://slurm.io/tpost/i5ikrm9fj1-hranenie-dannih-v-docker)
-[bridge-cеть в докере](https://docs.docker.com/network/bridge/)
-[хост-сеть в докере](https://docs.docker.com/network/host/)
+[Неплохая вводная статья на хабре](https://habr.com/ru/post/253877/)\
+[Статья о хранении данных в докере](https://slurm.io/tpost/i5ikrm9fj1-hranenie-dannih-v-docker)\
+[bridge-cеть в докере](https://docs.docker.com/network/bridge/)\
+[хост-сеть в докере](https://docs.docker.com/network/host/)\
 [докер на го](https://github.com/moby/moby)
 
